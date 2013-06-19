@@ -11,5 +11,4 @@
   <depend stack="common" />
   <depend stack="common_msgs" />
   <depend stack="geometry" />
-  <depend stack="visualization"/>
 </stack>

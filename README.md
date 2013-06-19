@@ -10,9 +10,6 @@ IMU-related filters and visualizers. The stack contains:
 accelerations, and (optionally) magnetic readings from a generic IMU 
 device into an orientation. Based on the work of [1].
 
- * `rviz_imu_plugin` a plugin for rviz which displays `sensor_msgs::Imu`
-messages
-
 Installing
 -----------------------------------
 
@@ -46,8 +43,6 @@ License
 -----------------------------------
 
  * `imu_filter_madgwick`: currently licensed as GPL, following the original implementation
-
- * `rviz_imu_plugin`: BSD
 
 References
 -----------------------------------
